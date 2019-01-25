@@ -1,0 +1,21 @@
+/**
+Define padrões de font
+ */
+
+body{
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+}
+
+img{
+max-width: 100%;
+heigth: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a{
+  color: $mainOrange;  
+}

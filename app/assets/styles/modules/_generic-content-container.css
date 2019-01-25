@@ -1,0 +1,24 @@
+/*
+p - Paragrafo
+a - Links
+*/
+
+.generic-content-container{
+
+  p{
+    
+    line-height: 1.65;
+    margin: 1.8rem 0;
+
+    @mixin atSmall{
+      font-size: 1.125rem;
+    }
+
+  }
+  p a {
+    font-weight: 500;
+  }
+
+
+
+}
